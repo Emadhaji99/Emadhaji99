@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Emadhaji99
-- 👀 I’m interested in cryptogrophy & data 
+- 👋 Hi, I’m @Emad_haji99
+- 👀 I’m interested in Cryptogrophy & Data Analyis  
 - 🌱 I’m currently learning python
 
 
